@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Portfolio of Tanmayee Pemmaraju
 
 Template Name: MyPortfolio
 Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
